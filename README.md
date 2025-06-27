@@ -8,7 +8,7 @@
 
 ```cmd
 pip install -r requirements.txt
-python main.js
+python main.py
 ```
 
 项目使用`pyinstaller`进行打包
